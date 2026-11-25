@@ -1,0 +1,16 @@
+{
+    "firstName" : "Selma",
+    "lastName"  : "Yıldız",
+    "age"       : "24",
+    "hobbies"   : ["cooking","reading"],
+    "children"  : [
+        {
+            "firstName" : "Burak",
+            "age"       : "5"
+        },
+        {
+            "firstName" : "Nur",
+            "age"       : "2"
+        }
+    ]
+}
